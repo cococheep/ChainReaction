@@ -15,7 +15,10 @@ OpenGL을 활용하여 기본적인 물리 법칙 구현
 
 
 /coco/Init.h: 렌더링 기본 설정
+
 /coco/object.h: 오브젝트 생성 및 작동 함수
+
 /coco/main.cpp: 오브젝트 활용한 씬 연출
+
 
 other files: http://kucg.korea.ac.kr/ 제공
