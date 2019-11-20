@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\glaux.h(17): warning C4068: 알 수 없는 pragma입니다.
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\glaux.h(374): warning C4068: 알 수 없는 pragma입니다.
+  coco.vcxproj -> C:\Users\LG\Desktop\MS\KU\18-1\CG\Term\coco\coco\Debug\coco.exe
