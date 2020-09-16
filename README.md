@@ -22,3 +22,5 @@ OpenGL을 활용하여 기본적인 물리 법칙 구현
 
 
 other files: http://kucg.korea.ac.kr/ 제공
+
+Demo video: https://youtu.be/CCpo01gX8aQ
